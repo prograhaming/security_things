@@ -11,3 +11,8 @@ natas.labs.overthewire.org
 8: DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 9: W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 10: 
+
+
+------------HELP------------
+https://infamoussyn.com/2014/02/05/overthewire-natas-level-0-16-writeup-updated
+https://portswigger.net/burp/
