@@ -1,6 +1,6 @@
 # security_things
 
-Just some things to further my knowledge of security.
+Just some things to further my knowledge of security including implementations of different crypto algorithms and progress through different challenges.
 
 ###Folders
 ####OverTheWire
