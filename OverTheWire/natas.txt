@@ -26,30 +26,12 @@ natas.labs.overthewire.org
 	//"asdfasdf" dictionary.txt; grep -r "natas10" ../../../.. #
 	//"asdfasdf" dictionary.txt; cat /etc/natas_webpass/natas10 #
 10: nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
-	//"asdfasdf" dictionary.txt | ls -lah /etc/natas_webpass/ #
-
-
-
-
-
-
-
-"natas" /etc/natas_webpass/ #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	//-E "." /etc/natas_webpass/natas11 #
 11: U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
+
+
+
+
 12: 
 
 
